@@ -1,1 +1,1 @@
-# karma_test
+# sample-apps-cordova
